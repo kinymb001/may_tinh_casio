@@ -1,0 +1,51 @@
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\toan casio.exe
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\toan casio.pdb
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\bin\Debug\toan casio.exe
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\bin\Debug\toan casio.pdb
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\toan casio.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.giaithua.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.he_ptb1_2an.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.he_ptb1_3an.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.khaican.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.loglncs.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.luonggiac.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.luythua.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\WindowsApplication1.ptbac2.resources
+C:\Users\USER\Desktop\Máy tính nâng cao Casio C#\toan casio\toan casio\obj\Debug\toan casio.csproj.GenerateResource.Cache
+C:\Users\HI\Desktop\toan casio\toan casio\bin\Debug\toan casio.exe
+C:\Users\HI\Desktop\toan casio\toan casio\bin\Debug\toan casio.pdb
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\toan casio.csproj.AssemblyReference.cache
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.giaithua.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.he_ptb1_2an.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.he_ptb1_3an.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.khaican.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.loglncs.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.luonggiac.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.luythua.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.ptbac2.resources
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\toan casio.csproj.GenerateResource.cache
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\toan casio.csproj.CoreCompileInputs.cache
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\toan casio.exe
+C:\Users\HI\Desktop\toan casio\toan casio\obj\Debug\toan casio.pdb
+C:\Users\Admin\Desktop\toan casio\toan casio\bin\Debug\toan casio.exe
+C:\Users\Admin\Desktop\toan casio\toan casio\bin\Debug\toan casio.pdb
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\toan casio.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.giaithua.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.he_ptb1_2an.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.he_ptb1_3an.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.khaican.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.loglncs.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.luonggiac.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.luythua.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.ptbac2.resources
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\toan casio.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\toan casio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\toan casio.exe
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\toan casio.pdb
+C:\Users\Admin\Desktop\toan casio\toan casio\obj\Debug\WindowsApplication1.ptbac3.resources
